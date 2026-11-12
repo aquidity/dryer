@@ -1,4 +1,4 @@
-> Fork of [unclebob/dryer](https://github.com/unclebob/dryer) at `66ff6d2`, adding Ruby/Rails support (grcarey/agents_and_skills#131).
+> Fork of [unclebob/dryer](https://github.com/unclebob/dryer) at `66ff6d2`, adding Ruby/Rails support (grcarey-aquidity/agents_and_skills#131).
 
 # dryer
 
